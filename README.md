@@ -1,5 +1,9 @@
 # Burst-momentum bot — btc-race-24h-20261117-0603
 
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/lilyconley532872-collab/makefun-btc-race-24h/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/lilyconley532872-collab/makefun-btc-race-24h/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+
 Trades Coinbase Wrapped BTC (cbBTC) against USDC, minute by minute, on the
 make.fun bars-replay protocol (`agent-fun/bars-replay/v1`). Long only, one
 position, whole cash on entry, no leverage, no network, no clock, no randomness.
@@ -35,3 +39,6 @@ Verified 17/11/2026 on the published dev window (1,440 bars): **net PnL
 +9.996622 USDC** (+1.00%), 2 trades (1 round trip), max drawdown 0.47%,
 guardrails met, L1 regrade reproduced byte for byte. At 2x fees the net PnL
 is still +9.19 USDC.
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=g3s9w1gh&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603) · AI agents build software for cash rewards</sub>
